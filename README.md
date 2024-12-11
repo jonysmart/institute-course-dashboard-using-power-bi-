@@ -1,5 +1,8 @@
 # institute-course-dashboard-using-power-bi-
 
+![image](https://github.com/user-attachments/assets/19f81eca-fe4c-4b05-92df-632b2bc60635)
+
+
 This data is About the ABC institute. This, shown as the course details and the students who had taken their course related to their respective domain. 
 1.	TOTAL AMOUNT
 The total amount refers to the cumulative sum of revenue generated over a specific time. In an educational context, it is typically the sum of fees collected for courses, which serves as a financial performance and decision-making.
